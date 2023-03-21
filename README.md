@@ -1,2 +1,2 @@
-# practica_github
+# practica_github_elias
 trabajo en equipo 
